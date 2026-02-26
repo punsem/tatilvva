@@ -1,0 +1,1476 @@
+[
+  {
+    "id": 1,
+    "name": "İstanbul Boğaz & Kültür Turu",
+    "slug": "istanbul-bogaz--kultur-turu",
+    "city": "İstanbul",
+    "location": "İstanbul, Beşiktaş",
+    "description": "İki kıtayı birleştiren İstanbul'da Boğaz manzaralı butik otel deneyimi.",
+    "longDescription": "Dünyanın en büyülü şehirlerinden İstanbul'da Boğaz kıyısında konaklayın. Ayasofya, Topkapı Sarayı ve Kapalıçarşı turları ile tarihe yolculuk yapın.",
+    "price": 7500,
+    "days": 3,
+    "rating": 9.2,
+    "image": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?w=800&q=80",
+    "hotelName": "Çırağan Palace Kempinski",
+    "features": [
+      "Boğaz Manzarası",
+      "Tarihi Konum",
+      "Spa",
+      "Fine Dining",
+      "Concierge"
+    ],
+    "highlights": [
+      "Ayasofya",
+      "Topkapı Sarayı",
+      "Boğaz Turu",
+      "Kapalıçarşı",
+      "Prens Adaları"
+    ],
+    "category": "premium",
+    "categories": [
+      "Şehir",
+      "Tarih",
+      "Kültür",
+      "Romantik",
+      "Fotoğraf"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "İstanbul Premium Boğaz Suite",
+    "slug": "istanbul-premium-bogaz-suite",
+    "city": "İstanbul",
+    "location": "İstanbul, Bebek",
+    "description": "Boğaz'ın en prestijli noktasında ultra-lüks suite odalarda İstanbul'un büyüsünü yaşayın.",
+    "longDescription": "İstanbul Bebek'te Boğaz manzaralı ultra-lüks suite odalarımızda VIP İstanbul deneyimi. Özel yat turu ve Michelin yıldızlı restoranlarda akşam yemeği.",
+    "price": 25000,
+    "days": 5,
+    "rating": 9.8,
+    "image": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?w=800&q=80",
+    "hotelName": "Four Seasons Bosphorus",
+    "features": [
+      "Boğaz Suite",
+      "Özel Yat",
+      "Butler Hizmeti",
+      "Helikopter Tur",
+      "Michelin Dining"
+    ],
+    "highlights": [
+      "VIP Boğaz Turu",
+      "Helikopter İstanbul",
+      "Özel Yat Gezisi",
+      "Michelin Akşam Yemeği",
+      "Saray Turları"
+    ],
+    "category": "luxury",
+    "categories": [
+      "Lüks",
+      "Romantik",
+      "Şehir",
+      "Gastronomi"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "İstanbul Sultanahmet Ekonomik",
+    "slug": "istanbul-sultanahmet-ekonomik",
+    "city": "İstanbul",
+    "location": "İstanbul, Fatih",
+    "description": "Tarihi yarımadanın kalbinde bütçe dostu konaklama ve kültür rotası.",
+    "longDescription": "Sultanahmet'in kalbinde uygun fiyatlı butik otelimizde konaklayın. Ayasofya, Sultanahmet Camii ve Yerebatan Sarnıcı yürüme mesafesinde.",
+    "price": 2800,
+    "days": 2,
+    "rating": 7.9,
+    "image": "https://images.unsplash.com/photo-1527838832700-5059252407fa?w=800&q=80",
+    "hotelName": "Hotel Sultanahmet Palace",
+    "features": [
+      "Merkezi Konum",
+      "Kahvaltı Dahil",
+      "Wi-Fi",
+      "Teras Manzarası"
+    ],
+    "highlights": [
+      "Ayasofya",
+      "Sultanahmet Camii",
+      "Yerebatan Sarnıcı",
+      "Mısır Çarşısı",
+      "Galata Kulesi"
+    ],
+    "category": "budget",
+    "categories": [
+      "Şehir",
+      "Tarih",
+      "Kültür",
+      "Fotoğraf"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "İstanbul Eğlence & Gece Hayatı",
+    "slug": "istanbul-eglence--gece-hayati",
+    "city": "İstanbul",
+    "location": "İstanbul, Beyoğlu",
+    "description": "Taksim ve Beyoğlu'nun renkli gece hayatını keşfedin.",
+    "longDescription": "İstanbul'un en canlı semti Beyoğlu'nda İstiklal Caddesi, Taksim Meydanı ve çatı barlarıyla dolu bir eğlence rotası.",
+    "price": 5500,
+    "days": 3,
+    "rating": 8.3,
+    "image": "https://images.unsplash.com/photo-1549918864-48ac978761a4?w=800&q=80",
+    "hotelName": "The Marmara Taksim",
+    "features": [
+      "Şehir Merkezi",
+      "Rooftop Bar",
+      "Restoran",
+      "Havuz"
+    ],
+    "highlights": [
+      "İstiklal Caddesi",
+      "Galata Kulesi",
+      "Çatı Barları",
+      "Balık Restoranları",
+      "Boğaz Gece Turu"
+    ],
+    "category": "mid",
+    "categories": [
+      "Eğlence",
+      "Şehir",
+      "Gastronomi"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "İstanbul Adalar Doğa Kaçamağı",
+    "slug": "istanbul-adalar-doga-kacamagi",
+    "city": "İstanbul",
+    "location": "İstanbul, Adalar",
+    "description": "Prens Adaları'nda motorsuz huzur, bisiklet turları ve deniz keyfi.",
+    "longDescription": "Büyükada'da fayton yerine bisikletle ada turu, Heybeliada'da yüzme, Burgazada'da doğa yürüyüşü yapın.",
+    "price": 3200,
+    "days": 2,
+    "rating": 8,
+    "image": "https://images.unsplash.com/photo-1568797629412-0f0eff8e8b57?w=800&q=80",
+    "hotelName": "Ada Palas Büyükada",
+    "features": [
+      "Ada Konumu",
+      "Bisiklet",
+      "Restoran",
+      "Bahçe"
+    ],
+    "highlights": [
+      "Büyükada Bisiklet Turu",
+      "Heybeliada Plajı",
+      "Aya Yorgi Kilisesi",
+      "Ada Mutfağı",
+      "Deniz Banyosu"
+    ],
+    "category": "budget",
+    "categories": [
+      "Doğa",
+      "Yüzme",
+      "Fotoğraf"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Ankara Başkent Kültür Rotası",
+    "slug": "ankara-baskent-kultur-rotasi",
+    "city": "Ankara",
+    "location": "Ankara, Çankaya",
+    "description": "Cumhuriyetin kalbi Ankara'da müze, tarih ve gastronomi rotası.",
+    "longDescription": "Türkiye Cumhuriyeti'nin başkenti Ankara, Anıtkabir, Anadolu Medeniyetleri Müzesi ile zengin bir kültür rotası sunuyor.",
+    "price": 2500,
+    "days": 2,
+    "rating": 7.3,
+    "image": "https://images.unsplash.com/photo-1569949381669-ecf31ae8f613?w=800&q=80",
+    "hotelName": "JW Marriott Ankara",
+    "features": [
+      "Şehir Merkezi",
+      "Business Lounge",
+      "Spa",
+      "Restoran",
+      "Otopark"
+    ],
+    "highlights": [
+      "Anıtkabir",
+      "Anadolu Medeniyetleri Müzesi",
+      "Ankara Kalesi",
+      "Hamamönü",
+      "CerModern"
+    ],
+    "category": "budget",
+    "categories": [
+      "Şehir",
+      "Tarih",
+      "Kültür"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Ankara Lüks Spa & Wellness",
+    "slug": "ankara-luks-spa--wellness",
+    "city": "Ankara",
+    "location": "Ankara, Oran",
+    "description": "Başkentin en lüks spa merkezlerinde wellness kaçamağı.",
+    "longDescription": "Ankara'nın prestijli Oran semtinde 5 yıldızlı otelimizde tam gün spa, hamam ve masaj paketleri ile kendinize ödül verin.",
+    "price": 8000,
+    "days": 3,
+    "rating": 8.5,
+    "image": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=800&q=80",
+    "hotelName": "Sheraton Ankara",
+    "features": [
+      "5 Yıldızlı Spa",
+      "Hamam",
+      "Havuz",
+      "Fine Dining",
+      "Otopark"
+    ],
+    "highlights": [
+      "Luxury Spa",
+      "Osmanlı Hamamı",
+      "Havuz Keyfi",
+      "Şehir Turu",
+      "Gastronomi"
+    ],
+    "category": "premium",
+    "categories": [
+      "Wellness",
+      "Lüks",
+      "Şehir"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Ankara Gençlik & Eğlence",
+    "slug": "ankara-genclik--eglence",
+    "city": "Ankara",
+    "location": "Ankara, Kızılay",
+    "description": "Ankara'nın genç ve dinamik yüzünü keşfedin.",
+    "longDescription": "Kızılay ve Tunalı Hilmi'nin canlı atmosferinde kafeler, barlar ve kültür merkezlerini keşfedin.",
+    "price": 1800,
+    "days": 2,
+    "rating": 7,
+    "image": "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?w=800&q=80",
+    "hotelName": "Divan Çukurhan",
+    "features": [
+      "Merkezi Konum",
+      "Kafe",
+      "Wi-Fi",
+      "Restoran"
+    ],
+    "highlights": [
+      "Kızılay Meydanı",
+      "Tunalı Hilmi",
+      "CerModern",
+      "Kuğulu Park",
+      "Atakule"
+    ],
+    "category": "budget",
+    "categories": [
+      "Şehir",
+      "Eğlence",
+      "Kültür"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Antalya All-Inclusive Lüks Tatil",
+    "slug": "antalya-all-inclusive-luks-tatil",
+    "city": "Antalya",
+    "location": "Antalya, Belek",
+    "description": "Akdeniz'in incisi Antalya'da 5 yıldızlı herşey dahil tatil.",
+    "longDescription": "Antalya Belek, dünya standartlarında golf sahaları ve lüks otelleriyle Türkiye'nin en prestijli tatil bölgesidir.",
+    "price": 12000,
+    "days": 7,
+    "rating": 9.4,
+    "image": "https://images.unsplash.com/photo-1540541338287-41700207dee6?w=800&q=80",
+    "hotelName": "Regnum Carya Resort & Spa",
+    "features": [
+      "Her Şey Dahil",
+      "Özel Plaj",
+      "5 Yıldızlı SPA",
+      "Aquapark",
+      "Golf Sahası",
+      "Çocuk Kulübü"
+    ],
+    "highlights": [
+      "Aspendos Antik Tiyatrosu",
+      "Düden Şelalesi",
+      "Kaleiçi Turu",
+      "Akdeniz Dalış",
+      "Golf Deneyimi"
+    ],
+    "category": "luxury",
+    "categories": [
+      "Plaj",
+      "Lüks",
+      "Yüzme",
+      "Eğlence",
+      "Spor"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Antalya Kemer Ekonomik Tatil",
+    "slug": "antalya-kemer-ekonomik-tatil",
+    "city": "Antalya",
+    "location": "Antalya, Kemer",
+    "description": "Bütçe dostu ama kaliteden ödün vermeyen Kemer tatili.",
+    "longDescription": "Antalya Kemer, çam ormanlarıyla iç içe, bütçe dostu bir tatil rotası sunuyor.",
+    "price": 3500,
+    "days": 5,
+    "rating": 7.8,
+    "image": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800&q=80",
+    "hotelName": "Rixos Sungate Kemer",
+    "features": [
+      "Yarım Pansiyon",
+      "Sahil Erişimi",
+      "Havuz",
+      "Animasyon",
+      "Wi-Fi"
+    ],
+    "highlights": [
+      "Olympos Antik Kenti",
+      "Yanartaş",
+      "Göynük Kanyonu",
+      "Phaselis",
+      "Kemer Çarşısı"
+    ],
+    "category": "budget",
+    "categories": [
+      "Plaj",
+      "Doğa",
+      "Yüzme",
+      "Tarih"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Antalya Kaş Tekne & Dalış",
+    "slug": "antalya-kas-tekne--dalis",
+    "city": "Antalya",
+    "location": "Antalya, Kaş",
+    "description": "Akdeniz'in en berrak sularında dalış ve tekne turu.",
+    "longDescription": "Kaş'ın kristal berraklığındaki sularında dalış yapın, Kekova Batık Şehir'i keşfedin ve tekne turlarının tadını çıkarın.",
+    "price": 5500,
+    "days": 5,
+    "rating": 8.7,
+    "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=80",
+    "hotelName": "Kas Artemis Hotel",
+    "features": [
+      "Tekne Turu",
+      "Dalış Merkezi",
+      "Deniz Manzarası",
+      "Restoran"
+    ],
+    "highlights": [
+      "Kekova Batık Şehir",
+      "Dalış Noktaları",
+      "Patara Plajı",
+      "Likya Yolu",
+      "Mavi Mağara"
+    ],
+    "category": "mid",
+    "categories": [
+      "Tekne",
+      "Yüzme",
+      "Doğa",
+      "Spor",
+      "Fotoğraf"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Antalya Lara Ultra All-Inclusive",
+    "slug": "antalya-lara-ultra-all-inclusive",
+    "city": "Antalya",
+    "location": "Antalya, Lara",
+    "description": "Lara sahilinde ultra her şey dahil aile tatili.",
+    "longDescription": "Antalya Lara'nın altın kumsalında aquapark, çocuk kulübü ve gece eğlenceleriyle ailenizle unutulmaz bir tatil.",
+    "price": 8500,
+    "days": 7,
+    "rating": 8.9,
+    "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&q=80",
+    "hotelName": "Titanic Mardan Palace",
+    "features": [
+      "Ultra All-Inclusive",
+      "Aquapark",
+      "Çocuk Kulübü",
+      "6 Restoran",
+      "SPA"
+    ],
+    "highlights": [
+      "Düden Şelalesi",
+      "Lara Plajı",
+      "Kaleiçi",
+      "Antalya Müzesi",
+      "Su Sporları"
+    ],
+    "category": "premium",
+    "categories": [
+      "Plaj",
+      "Eğlence",
+      "Yüzme",
+      "Lüks"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Antalya Olympos Kamp",
+    "slug": "antalya-olympos-kamp",
+    "city": "Antalya",
+    "location": "Antalya, Olympos",
+    "description": "Olympos'un ağaç evlerinde doğayla iç içe kamp deneyimi.",
+    "longDescription": "Antik Olympos kalıntıları arasında ağaç evlerde konaklayın, Çıralı sahilinde Caretta Caretta'ları izleyin.",
+    "price": 1500,
+    "days": 3,
+    "rating": 7.5,
+    "image": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=800&q=80",
+    "hotelName": "Kadir's Treehouse",
+    "features": [
+      "Ağaç Ev",
+      "Kamp Ateşi",
+      "Doğal Plaj",
+      "Kahvaltı"
+    ],
+    "highlights": [
+      "Olympos Antik Kenti",
+      "Yanartaş",
+      "Çıralı Sahili",
+      "Likya Yolu",
+      "Teleferik"
+    ],
+    "category": "budget",
+    "categories": [
+      "Kamp",
+      "Doğa",
+      "Plaj",
+      "Tarih"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Bodrum Marina Boutique Tatil",
+    "slug": "bodrum-marina-boutique-tatil",
+    "city": "İzmir",
+    "location": "Bodrum, Yalıkavak",
+    "description": "Ege'nin en şık destinasyonu Bodrum'da butik otel deneyimi.",
+    "longDescription": "Yalıkavak Marina'nın yanındaki butik otelimizde deniz manzaralı odalar ve infinity pool keyfi.",
+    "price": 8500,
+    "days": 5,
+    "rating": 8.8,
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+    "hotelName": "LUJO Art & Joy Hotel",
+    "features": [
+      "Butik Oda",
+      "Infinity Pool",
+      "Marina Manzarası",
+      "Özel Beach",
+      "A La Carte"
+    ],
+    "highlights": [
+      "Yalıkavak Marina",
+      "Bodrum Kalesi",
+      "Tekne Turu",
+      "Gümüşlük Batık Şehir",
+      "Bodrum Gece Hayatı"
+    ],
+    "category": "premium",
+    "categories": [
+      "Plaj",
+      "Lüks",
+      "Tekne",
+      "Eğlence",
+      "Romantik"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Fethiye Ölüdeniz & Yamaç Paraşütü",
+    "slug": "fethiye-oludeniz--yamac-parasutu",
+    "city": "Muğla",
+    "location": "Muğla, Fethiye",
+    "description": "Ölüdeniz'in turkuaz suları ve Babadağ'dan yamaç paraşütü.",
+    "longDescription": "Fethiye Ölüdeniz'de dünyaca ünlü Mavi Lagün'de yüzün, Babadağ'dan yamaç paraşütüyle uçun.",
+    "price": 4500,
+    "days": 5,
+    "rating": 8.6,
+    "image": "https://images.unsplash.com/photo-1530538095376-a4936b35b5f0?w=800&q=80",
+    "hotelName": "Oyster Residences",
+    "features": [
+      "Deniz Manzarası",
+      "Havuz",
+      "Restoran",
+      "Plaj Erişimi"
+    ],
+    "highlights": [
+      "Ölüdeniz Lagünü",
+      "Yamaç Paraşütü",
+      "Kelebekler Vadisi",
+      "12 Ada Tekne Turu",
+      "Kayaköy"
+    ],
+    "category": "mid",
+    "categories": [
+      "Plaj",
+      "Spor",
+      "Doğa",
+      "Tekne",
+      "Fotoğraf"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Bodrum Turgutreis Sahil Tatili",
+    "slug": "bodrum-turgutreis-sahil-tatili",
+    "city": "Muğla",
+    "location": "Bodrum, Turgutreis",
+    "description": "Ege'nin en güzel gün batımını izleyebileceğiniz Turgutreis'te huzurlu tatil.",
+    "longDescription": "Bodrum Turgutreis, sakin atmosferi ve muhteşem gün batımı manzarasıyla Ege'nin gizli cennetlerinden biri.",
+    "price": 5500,
+    "days": 7,
+    "rating": 8,
+    "image": "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?w=800&q=80",
+    "hotelName": "Voyage Turgutreis Hotel",
+    "features": [
+      "Sahil Kenarı",
+      "Açık Büfe",
+      "Su Sporları",
+      "Havuz",
+      "Gün Batımı Terası"
+    ],
+    "highlights": [
+      "Turgutreis Gün Batımı",
+      "D-Marin",
+      "Akvaryum Koyu",
+      "Tavşan Adası",
+      "Turgutreis Pazarı"
+    ],
+    "category": "mid",
+    "categories": [
+      "Plaj",
+      "Yüzme",
+      "Romantik"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Marmaris Ekonomik Tatil",
+    "slug": "marmaris-ekonomik-tatil",
+    "city": "Muğla",
+    "location": "Muğla, Marmaris",
+    "description": "Marmaris'in berrak sularında bütçe dostu tatil.",
+    "longDescription": "Marmaris'te uygun fiyatlı otelimizde deniz, güneş ve doğa turlarının keyfini çıkarın.",
+    "price": 2800,
+    "days": 5,
+    "rating": 7.4,
+    "image": "https://images.unsplash.com/photo-1506929562872-bb421503ef21?w=800&q=80",
+    "hotelName": "Grand Yazici Club Marmaris",
+    "features": [
+      "Yarım Pansiyon",
+      "Sahil",
+      "Havuz",
+      "Animasyon"
+    ],
+    "highlights": [
+      "İçmeler Plajı",
+      "Dalyan Tekne Turu",
+      "Marmaris Kalesi",
+      "Bar Street",
+      "Cennet Adası"
+    ],
+    "category": "budget",
+    "categories": [
+      "Plaj",
+      "Yüzme",
+      "Eğlence",
+      "Tekne"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Bursa Uludağ Kayak Tatili",
+    "slug": "bursa-uludag-kayak-tatili",
+    "city": "Bursa",
+    "location": "Bursa, Uludağ",
+    "description": "Uludağ'ın eşsiz kar manzarası eşliğinde kayak ve doğa tatili.",
+    "longDescription": "Türkiye'nin en popüler kış turizmi merkezi Uludağ, muhteşem bir kayak deneyimi sunuyor.",
+    "price": 4500,
+    "days": 3,
+    "rating": 8.2,
+    "image": "https://images.unsplash.com/photo-1551524559-8af4e6624178?w=800&q=80",
+    "hotelName": "Grand Yazıcı Hotel Uludağ",
+    "features": [
+      "Kayak Pisti Erişimi",
+      "Spa & Wellness",
+      "Açık Büfe Kahvaltı",
+      "Teleferik Yakını",
+      "Isıtmalı Havuz"
+    ],
+    "highlights": [
+      "Uludağ Milli Parkı",
+      "Bursa Ulu Camii",
+      "Cumalıkızık Köyü",
+      "İskender Kebap Deneyimi",
+      "Teleferik Turu"
+    ],
+    "category": "budget",
+    "categories": [
+      "Kayak",
+      "Doğa",
+      "Spor"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Bursa Termal & Kültür Turu",
+    "slug": "bursa-termal--kultur-turu",
+    "city": "Bursa",
+    "location": "Bursa, Çekirge",
+    "description": "Osmanlı'nın ilk başkenti Bursa'da termal kaplıca ve kültür turu.",
+    "longDescription": "Çekirge'deki termal otelimizde şifalı sulardan yararlanın, tarihi Koza Han'da ipek alışverişi yapın.",
+    "price": 3000,
+    "days": 2,
+    "rating": 7.5,
+    "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&q=80",
+    "hotelName": "Kervansaray Termal Hotel",
+    "features": [
+      "Termal Havuz",
+      "Hamam",
+      "Tarihi Konum",
+      "Açık Büfe",
+      "Otopark"
+    ],
+    "highlights": [
+      "Koza Han",
+      "Yeşil Türbe",
+      "Cumalıkızık Köyü",
+      "Mudanya Sahili",
+      "Termal Kaplıcalar"
+    ],
+    "category": "budget",
+    "categories": [
+      "Termal",
+      "Tarih",
+      "Kültür",
+      "Wellness"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Bursa Lüks Dağ Evi Tatili",
+    "slug": "bursa-luks-dag-evi-tatili",
+    "city": "Bursa",
+    "location": "Bursa, Uludağ",
+    "description": "Uludağ'ın zirvesinde özel şömineli lüks dağ evi deneyimi.",
+    "longDescription": "Uludağ'da özel jakuzili ve şömineli lüks dağ evlerinde romantik bir kaçamak.",
+    "price": 12000,
+    "days": 3,
+    "rating": 9,
+    "image": "https://images.unsplash.com/photo-1542718610-a1d656d1884c?w=800&q=80",
+    "hotelName": "Bof Hotels Uludağ",
+    "features": [
+      "Özel Dağ Evi",
+      "Jakuzi",
+      "Şömine",
+      "Kayak",
+      "Concierge"
+    ],
+    "highlights": [
+      "Kayak",
+      "Snowboard",
+      "Doğa Yürüyüşü",
+      "Romantik Akşam Yemeği",
+      "Spa"
+    ],
+    "category": "luxury",
+    "categories": [
+      "Kayak",
+      "Lüks",
+      "Romantik",
+      "Doğa"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Kapadokya Premium Cave Suite",
+    "slug": "kapadokya-premium-cave-suite",
+    "city": "Nevşehir",
+    "location": "Nevşehir, Uçhisar",
+    "description": "Uçhisar Kalesi manzaralı premium mağara suite lüks deneyim.",
+    "longDescription": "Kapadokya'nın en yüksek noktası Uçhisar'da premium mağara suite odalarımızda unutulmaz bir lüks deneyim.",
+    "price": 15000,
+    "days": 5,
+    "rating": 9.6,
+    "image": "https://images.unsplash.com/photo-1570939274717-7eda259b50ed?w=800&q=80",
+    "hotelName": "Argos in Cappadocia",
+    "features": [
+      "Premium Cave Suite",
+      "VIP Balon Turu",
+      "Özel Jakuzi",
+      "Şömine",
+      "Concierge",
+      "Şarap Mahzeni"
+    ],
+    "highlights": [
+      "Uçhisar Kalesi",
+      "VIP Balon",
+      "Kızılçukur Vadisi",
+      "At Binme Safari",
+      "Şarap Tadımı"
+    ],
+    "category": "luxury",
+    "categories": [
+      "Lüks",
+      "Romantik",
+      "Fotoğraf",
+      "Kültür"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Kapadokya Ekonomik Keşif",
+    "slug": "kapadokya-ekonomik-kesif",
+    "city": "Nevşehir",
+    "location": "Nevşehir, Ürgüp",
+    "description": "Kapadokya'yı uygun bütçeyle keşfedin, ATV safari ve vadi yürüyüşleri.",
+    "longDescription": "Ürgüp'teki uygun fiyatlı pansiyonumuzda konaklayın, vadilerde trekking yapın ve ATV safari ile keşfe çıkın.",
+    "price": 2200,
+    "days": 2,
+    "rating": 7.6,
+    "image": "https://images.unsplash.com/photo-1609861382907-e67bcf4d4542?w=800&q=80",
+    "hotelName": "Ürgüp Cave Hotel",
+    "features": [
+      "Mağara Oda",
+      "Kahvaltı",
+      "Wi-Fi",
+      "Teras"
+    ],
+    "highlights": [
+      "ATV Safari",
+      "Devrent Vadisi",
+      "Paşabağ",
+      "Avanos Çömlekçilik",
+      "Güvercinlik Vadisi"
+    ],
+    "category": "budget",
+    "categories": [
+      "Doğa",
+      "Tarih",
+      "Kültür",
+      "Spor"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Gaziantep Gastronomi Turu",
+    "slug": "gaziantep-gastronomi-turu",
+    "city": "Gaziantep",
+    "location": "Gaziantep, Şahinbey",
+    "description": "UNESCO Gastronomi Şehri Gaziantep'te eşsiz lezzet yolculuğu.",
+    "longDescription": "Dünyaca ünlü baklavası, kebapları ve zengin mutfak kültürüyle benzersiz bir deneyim.",
+    "price": 2000,
+    "days": 2,
+    "rating": 8.5,
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&q=80",
+    "hotelName": "Divan Gaziantep",
+    "features": [
+      "Gastronomi Turu",
+      "Merkezi Konum",
+      "Açık Büfe",
+      "Wi-Fi",
+      "Otopark"
+    ],
+    "highlights": [
+      "Zeugma Mozaik Müzesi",
+      "Baklava Atölyesi",
+      "Bakırcılar Çarşısı",
+      "Gaziantep Kalesi",
+      "Kebap Deneyimi"
+    ],
+    "category": "budget",
+    "categories": [
+      "Gastronomi",
+      "Kültür",
+      "Tarih"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Şanlıurfa Kültür & İnanç Rotası",
+    "slug": "sanliurfa-kultur--inanc-rotasi",
+    "city": "Şanlıurfa",
+    "location": "Şanlıurfa, Merkez",
+    "description": "Göbeklitepe, Balıklıgöl ve tarih dolu bir inanç & kültür rotası.",
+    "longDescription": "12.000 yıllık tarihi ile dünyanın en eski tapınağı Göbeklitepe'ye ev sahipliği yapan Şanlıurfa.",
+    "price": 1800,
+    "days": 2,
+    "rating": 8.1,
+    "image": "https://images.unsplash.com/photo-1590073242678-70ee3fc28e8e?w=800&q=80",
+    "hotelName": "Hilton Garden Inn Şanlıurfa",
+    "features": [
+      "Merkezi Konum",
+      "Restoran",
+      "Açık Büfe",
+      "Wi-Fi",
+      "Otopark"
+    ],
+    "highlights": [
+      "Göbeklitepe",
+      "Balıklıgöl",
+      "Harran Evleri",
+      "Çiğ Köfte Atölyesi",
+      "Tarihi Çarşı"
+    ],
+    "category": "budget",
+    "categories": [
+      "Tarih",
+      "Kültür",
+      "Gastronomi"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "İzmir Çeşme Plaj Tatili",
+    "slug": "izmir-cesme-plaj-tatili",
+    "city": "İzmir",
+    "location": "İzmir, Çeşme",
+    "description": "Ege'nin en popüler plaj destinasyonu Çeşme'de rüzgar sörfü ve deniz tatili.",
+    "longDescription": "Çeşme'nin berrak Ege sularında rüzgar sörfü yapın, Alaçatı'nın taş sokaklarında gezin.",
+    "price": 6000,
+    "days": 5,
+    "rating": 8.4,
+    "image": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?w=800&q=80",
+    "hotelName": "Boyalık Beach Hotel",
+    "features": [
+      "Özel Plaj",
+      "Sörf Merkezi",
+      "Havuz",
+      "SPA",
+      "Restoran"
+    ],
+    "highlights": [
+      "Alaçatı Sokakları",
+      "Rüzgar Sörfü",
+      "Ilıca Plajı",
+      "Çeşme Kalesi",
+      "Sakız Adası Feribot"
+    ],
+    "category": "mid",
+    "categories": [
+      "Plaj",
+      "Spor",
+      "Yüzme",
+      "Fotoğraf",
+      "Eğlence"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "İzmir Efes & Şirince Kültür",
+    "slug": "izmir-efes--sirince-kultur",
+    "city": "İzmir",
+    "location": "İzmir, Selçuk",
+    "description": "Antik dünyaın harikası Efes ve şarap köyü Şirince turu.",
+    "longDescription": "Efes Antik Kenti'ni gezin, Şirince köyünde şarap tadımı yapın ve Meryemana'yı ziyaret edin.",
+    "price": 2500,
+    "days": 2,
+    "rating": 8,
+    "image": "https://images.unsplash.com/photo-1568322445389-f64ac2515020?w=800&q=80",
+    "hotelName": "Nea Efessos Hotel",
+    "features": [
+      "Tarihi Konum",
+      "Kahvaltı",
+      "Bahçe",
+      "Wi-Fi"
+    ],
+    "highlights": [
+      "Efes Antik Kenti",
+      "Şirince Köyü",
+      "Meryemana Evi",
+      "Artemis Tapınağı",
+      "Şarap Tadımı"
+    ],
+    "category": "budget",
+    "categories": [
+      "Tarih",
+      "Kültür",
+      "Gastronomi",
+      "Fotoğraf"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "İzmir Kordon & Şehir Turu",
+    "slug": "izmir-kordon--sehir-turu",
+    "city": "İzmir",
+    "location": "İzmir, Alsancak",
+    "description": "Ege'nin incisi İzmir'de Kordon Boyu yürüyüşü ve şehir keşfi.",
+    "longDescription": "Alsancak'ın canlı sokaklarında yürüyün, Kordon boyunca bisiklet sürün ve Kemeraltı Çarşısı'nı keşfedin.",
+    "price": 2000,
+    "days": 2,
+    "rating": 7.5,
+    "image": "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=800&q=80",
+    "hotelName": "Swissotel Büyük Efes",
+    "features": [
+      "Şehir Merkezi",
+      "Deniz Manzarası",
+      "Havuz",
+      "Restoran"
+    ],
+    "highlights": [
+      "Kordon Boyu",
+      "Kemeraltı",
+      "Asansör",
+      "Saat Kulesi",
+      "Agora"
+    ],
+    "category": "budget",
+    "categories": [
+      "Şehir",
+      "Kültür",
+      "Gastronomi"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Adana Lezzet & Doğa Rotası",
+    "slug": "adana-lezzet--doga-rotasi",
+    "city": "Adana",
+    "location": "Adana, Seyhan",
+    "description": "Adana kebabının başkentinde lezzet turu ve doğa kaçamağı.",
+    "longDescription": "Meşhur kebabı, Taş Köprüsü ve Kapıkaya Kanyonu doğa turlarıyla tatilinizi zenginleştirin.",
+    "price": 2200,
+    "days": 3,
+    "rating": 7.6,
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80",
+    "hotelName": "Sheraton Adana",
+    "features": [
+      "Şehir Merkezi",
+      "Havuz",
+      "Restoran",
+      "Spa",
+      "Otopark"
+    ],
+    "highlights": [
+      "Adana Kebap Turu",
+      "Taş Köprü",
+      "Kapıkaya Kanyonu",
+      "Merkez Camii",
+      "Seyhan Nehri"
+    ],
+    "category": "budget",
+    "categories": [
+      "Gastronomi",
+      "Doğa",
+      "Şehir"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Trabzon Uzungöl & Yayla Turu",
+    "slug": "trabzon-uzungol--yayla-turu",
+    "city": "Trabzon",
+    "location": "Trabzon, Çaykara",
+    "description": "Karadeniz'in incisi Uzungöl'de doğa turu ve yayla kültürü.",
+    "longDescription": "Uzungöl'ün muhteşem göl manzarası, yeşil yaylalar ve Karadeniz mutfağıyla harika bir doğa tatili.",
+    "price": 3000,
+    "days": 3,
+    "rating": 8.3,
+    "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&q=80",
+    "hotelName": "Inan Kardeşler Hotel",
+    "features": [
+      "Göl Manzarası",
+      "Doğa İçinde",
+      "Kahvaltı",
+      "Restoran"
+    ],
+    "highlights": [
+      "Uzungöl",
+      "Sümela Manastırı",
+      "Çal Mağarası",
+      "Boztepe",
+      "Karadeniz Mutfağı"
+    ],
+    "category": "budget",
+    "categories": [
+      "Doğa",
+      "Orman",
+      "Fotoğraf",
+      "Gastronomi"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Trabzon Lüks Yayla Deneyimi",
+    "slug": "trabzon-luks-yayla-deneyimi",
+    "city": "Trabzon",
+    "location": "Trabzon, Ayder",
+    "description": "Ayder Yaylası'nda lüks dağ evi ve termal kaplıca deneyimi.",
+    "longDescription": "Ayder'in çay bahçeleri arasında lüks dağ evinde konaklayın, termal havuzlarda rahatlayın.",
+    "price": 7000,
+    "days": 3,
+    "rating": 8.7,
+    "image": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=800&q=80",
+    "hotelName": "Ayder Resort Hotel",
+    "features": [
+      "Termal Havuz",
+      "Dağ Evi",
+      "Doğa",
+      "Restoran",
+      "SPA"
+    ],
+    "highlights": [
+      "Ayder Yaylası",
+      "Termal Kaplıca",
+      "Fırtına Deresi",
+      "Zilkale",
+      "Pokut Yaylası"
+    ],
+    "category": "premium",
+    "categories": [
+      "Doğa",
+      "Termal",
+      "Wellness",
+      "Orman"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Denizli Pamukkale Termal Turu",
+    "slug": "denizli-pamukkale-termal-turu",
+    "city": "Denizli",
+    "location": "Denizli, Pamukkale",
+    "description": "UNESCO Dünya Mirası Pamukkale travertenlerinde termal tatil.",
+    "longDescription": "Pamuk beyazı travertenlerde yürüyün, antik Hierapolis'i keşfedin ve termal havuzlarda rahatlayın.",
+    "price": 2500,
+    "days": 2,
+    "rating": 8.4,
+    "image": "https://images.unsplash.com/photo-1600011638498-3da7c36682c3?w=800&q=80",
+    "hotelName": "Doga Thermal Health & SPA",
+    "features": [
+      "Termal Havuz",
+      "SPA",
+      "Travertenlere Yakın",
+      "Açık Büfe"
+    ],
+    "highlights": [
+      "Pamukkale Travertenleri",
+      "Hierapolis Antik Kenti",
+      "Kleopatra Havuzu",
+      "Karahayıt Kaplıcaları",
+      "Laodikya"
+    ],
+    "category": "budget",
+    "categories": [
+      "Termal",
+      "Tarih",
+      "Wellness",
+      "Fotoğraf"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Konya Mevlana & Kültür Rotası",
+    "slug": "konya-mevlana--kultur-rotasi",
+    "city": "Konya",
+    "location": "Konya, Merkez",
+    "description": "Mevlana'nın şehri Konya'da tasavvuf ve kültür rotası.",
+    "longDescription": "Mevlana Müzesi, Alaeddin Tepesi ve Sille Köyü ile manevi bir yolculuk.",
+    "price": 2000,
+    "days": 2,
+    "rating": 7.8,
+    "image": "https://images.unsplash.com/photo-1564769625905-50e93615e769?w=800&q=80",
+    "hotelName": "Dedeman Konya",
+    "features": [
+      "Merkezi Konum",
+      "Restoran",
+      "Otopark",
+      "Wi-Fi"
+    ],
+    "highlights": [
+      "Mevlana Müzesi",
+      "Alaeddin Camii",
+      "Sille Köyü",
+      "Kelebek Bahçesi",
+      "Etli Ekmek Deneyimi"
+    ],
+    "category": "budget",
+    "categories": [
+      "Kültür",
+      "Tarih",
+      "Gastronomi"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Bolu Abant & Yedigöller Doğa",
+    "slug": "bolu-abant--yedigoller-doga",
+    "city": "Bolu",
+    "location": "Bolu, Abant",
+    "description": "Abant Gölü ve Yedigöller'de huzurlu bir doğa kaçamağı.",
+    "longDescription": "Abant Gölü çevresinde bisiklet turu, Yedigöller Milli Parkı'nda trekking ve doğa fotoğrafçılığı.",
+    "price": 3500,
+    "days": 3,
+    "rating": 8.1,
+    "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+    "hotelName": "Taksim Hotels Abant",
+    "features": [
+      "Göl Manzarası",
+      "Bisiklet",
+      "Doğa İçinde",
+      "Restoran"
+    ],
+    "highlights": [
+      "Abant Gölü",
+      "Yedigöller",
+      "Gölcük Tabiat Parkı",
+      "Mudurnu",
+      "Bolu Dağı"
+    ],
+    "category": "budget",
+    "categories": [
+      "Doğa",
+      "Orman",
+      "Fotoğraf",
+      "Kamp"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Bolu Kartalkaya Kayak",
+    "slug": "bolu-kartalkaya-kayak",
+    "city": "Bolu",
+    "location": "Bolu, Kartalkaya",
+    "description": "Kartalkaya'da ailece kayak tatili ve kış sporları.",
+    "longDescription": "Kartalkaya'nın modern pistlerinde kayak ve snowboard keyfini çıkarın.",
+    "price": 5500,
+    "days": 3,
+    "rating": 8,
+    "image": "https://images.unsplash.com/photo-1565992441121-4367c2967103?w=800&q=80",
+    "hotelName": "Kaya Palazzo Kartalkaya",
+    "features": [
+      "Kayak Pisti",
+      "Spa",
+      "Havuz",
+      "Restoran",
+      "Çocuk Kulübü"
+    ],
+    "highlights": [
+      "Kayak",
+      "Snowboard",
+      "Kar Yürüyüşü",
+      "Spa",
+      "Doğa"
+    ],
+    "category": "mid",
+    "categories": [
+      "Kayak",
+      "Spor",
+      "Doğa"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Mersin Kızkalesi & Akdeniz",
+    "slug": "mersin-kizkalesi--akdeniz",
+    "city": "Mersin",
+    "location": "Mersin, Erdemli",
+    "description": "Kızkalesi'nin efsanevi siluetinde Akdeniz tatili.",
+    "longDescription": "Kızkalesi'nin turkuaz sularında yüzün, Cennet-Cehennem mağaralarını keşfedin.",
+    "price": 2500,
+    "days": 3,
+    "rating": 7.7,
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&q=80",
+    "hotelName": "Kızkalesi Otelleri",
+    "features": [
+      "Sahil",
+      "Havuz",
+      "Restoran",
+      "Otopark"
+    ],
+    "highlights": [
+      "Kızkalesi",
+      "Cennet Cehennem",
+      "Anemurium",
+      "Silifke Kalesi",
+      "Tarsus"
+    ],
+    "category": "budget",
+    "categories": [
+      "Plaj",
+      "Yüzme",
+      "Tarih"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Kayseri Erciyes Kayak",
+    "slug": "kayseri-erciyes-kayak",
+    "city": "Kayseri",
+    "location": "Kayseri, Erciyes",
+    "description": "Erciyes Dağı'nda modern pistlerde kayak deneyimi.",
+    "longDescription": "3.917 metre yüksekliğiyle Erciyes, Türkiye'nin en uzun pistlerine sahip kayak merkezidir.",
+    "price": 4000,
+    "days": 3,
+    "rating": 8.3,
+    "image": "https://images.unsplash.com/photo-1605540436563-5bca919ae766?w=800&q=80",
+    "hotelName": "Radisson Blu Erciyes",
+    "features": [
+      "Kayak Pisti",
+      "SPA",
+      "Havuz",
+      "Restoran",
+      "Pist Erişimi"
+    ],
+    "highlights": [
+      "Erciyes Kayak",
+      "Snowboard",
+      "Kapadokya Günübirlik",
+      "Kayseri Mantısı",
+      "Saat Kulesi"
+    ],
+    "category": "budget",
+    "categories": [
+      "Kayak",
+      "Spor",
+      "Gastronomi"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Rize Ayder Yayla & Doğa",
+    "slug": "rize-ayder-yayla--doga",
+    "city": "Rize",
+    "location": "Rize, Çamlıhemşin",
+    "description": "Kaçkar Dağları eteklerinde Ayder yaylasında doğa kaçamağı.",
+    "longDescription": "Yeşilin her tonunu barındıran Ayder'de termal kaplıcalar, rafting ve doğa yürüyüşleri.",
+    "price": 2800,
+    "days": 3,
+    "rating": 8.2,
+    "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&q=80",
+    "hotelName": "Ayder Hasimoglu Hotel",
+    "features": [
+      "Yayla Konumu",
+      "Termal",
+      "Doğa",
+      "Kahvaltı"
+    ],
+    "highlights": [
+      "Ayder Yaylası",
+      "Fırtına Deresi Rafting",
+      "Zilkale",
+      "Pokut Yaylası",
+      "Çay Bahçeleri"
+    ],
+    "category": "budget",
+    "categories": [
+      "Doğa",
+      "Orman",
+      "Termal",
+      "Spor"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Çanakkale Truva & Gelibolu Turu",
+    "slug": "canakkale-truva--gelibolu-turu",
+    "city": "Çanakkale",
+    "location": "Çanakkale, Merkez",
+    "description": "Truva Antik Kenti ve Gelibolu Yarımadası'nda tarih turu.",
+    "longDescription": "Truva'nın efsanevi kalıntılarını gezin, Gelibolu'da Çanakkale Savaşları anıtlarını ziyaret edin.",
+    "price": 2500,
+    "days": 2,
+    "rating": 8,
+    "image": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?w=800&q=80",
+    "hotelName": "Kolin Hotel Çanakkale",
+    "features": [
+      "Şehir Merkezi",
+      "Restoran",
+      "Otopark",
+      "Wi-Fi"
+    ],
+    "highlights": [
+      "Truva Antik Kenti",
+      "Gelibolu",
+      "Şehitlik",
+      "Boğaz Geçişi",
+      "Assos"
+    ],
+    "category": "budget",
+    "categories": [
+      "Tarih",
+      "Kültür",
+      "Fotoğraf"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Afyon Termal & SPA Wellness",
+    "slug": "afyon-termal--spa-wellness",
+    "city": "Afyonkarahisar",
+    "location": "Afyonkarahisar, Merkez",
+    "description": "Türkiye'nin termal başkenti Afyon'da şifalı sular ve wellness.",
+    "longDescription": "Afyon'un meşhur termal kaplıcalarında vücut ve ruh sağlığınızı yenileyin.",
+    "price": 3500,
+    "days": 3,
+    "rating": 8.1,
+    "image": "https://images.unsplash.com/photo-1600334089648-b0d9d3028eb2?w=800&q=80",
+    "hotelName": "NG Afyon Wellness",
+    "features": [
+      "Termal Havuz",
+      "SPA",
+      "Hamam",
+      "Fitness",
+      "Restoran"
+    ],
+    "highlights": [
+      "Termal Kaplıcalar",
+      "Afyon Kalesi",
+      "Mevlevihane",
+      "Sucuk-Kaymak Kahvaltı",
+      "Frigyalılar Vadisi"
+    ],
+    "category": "mid",
+    "categories": [
+      "Termal",
+      "Wellness",
+      "Kültür",
+      "Gastronomi"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Mardin Taş Evler & Mezopotamya",
+    "slug": "mardin-tas-evler--mezopotamya",
+    "city": "Mardin",
+    "location": "Mardin, Artuklu",
+    "description": "Mezopotamya ovasına bakan taş evlerde kültür ve tarih turu.",
+    "longDescription": "Mardin'in eşsiz taş mimarisi, manastırları ve medeniyetler mozağini keşfedin.",
+    "price": 2800,
+    "days": 2,
+    "rating": 8.6,
+    "image": "https://images.unsplash.com/photo-1539650116574-8efeb43e2750?w=800&q=80",
+    "hotelName": "Erdoba Elegance Hotel",
+    "features": [
+      "Tarihi Konum",
+      "Teras Manzarası",
+      "Restoran",
+      "Wi-Fi"
+    ],
+    "highlights": [
+      "Mardin Çarşısı",
+      "Deyrulzafaran Manastırı",
+      "Kasımiye Medresesi",
+      "Midyat",
+      "Dara Antik Kenti"
+    ],
+    "category": "budget",
+    "categories": [
+      "Tarih",
+      "Kültür",
+      "Fotoğraf",
+      "Gastronomi"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Safranbolu Osmanlı Konakları",
+    "slug": "safranbolu-osmanli-konaklari",
+    "city": "Karabük",
+    "location": "Karabük, Safranbolu",
+    "description": "UNESCO Dünya Mirası Safranbolu'da otantik Osmanlı konak deneyimi.",
+    "longDescription": "Osmanlı mimarisinin en güzel örneklerinin korunduğu Safranbolu'da tarihi konaklarda konaklayın.",
+    "price": 2200,
+    "days": 2,
+    "rating": 8.3,
+    "image": "https://images.unsplash.com/photo-1575517111478-7f6afd0973db?w=800&q=80",
+    "hotelName": "Cinci Han",
+    "features": [
+      "Tarihi Konak",
+      "Kahvaltı",
+      "Bahçe",
+      "Wi-Fi"
+    ],
+    "highlights": [
+      "Safranbolu Evleri",
+      "Cinci Han",
+      "Kaymakamlar Evi",
+      "Safranbolu Lokumu",
+      "Kristal Teras"
+    ],
+    "category": "budget",
+    "categories": [
+      "Tarih",
+      "Kültür",
+      "Fotoğraf",
+      "Romantik"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Eskişehir Porsuk & Gençlik Rotası",
+    "slug": "eskisehir-porsuk--genclik-rotasi",
+    "city": "Eskişehir",
+    "location": "Eskişehir, Odunpazarı",
+    "description": "Porsuk Çayı kıyısında gondol turu ve renkli Odunpazarı sokakları.",
+    "longDescription": "Türkiye'nin en genç ve canlı şehri Eskişehir'de Porsuk boyunca gondol turu yapın, Odunpazarı Modern Müze'yi keşfedin.",
+    "price": 2000,
+    "days": 2,
+    "rating": 7.8,
+    "image": "https://images.unsplash.com/photo-1514924013411-cbf25faa35bb?w=800&q=80",
+    "hotelName": "Tasigo Hotels Eskişehir",
+    "features": [
+      "Şehir Merkezi",
+      "Restoran",
+      "Wi-Fi",
+      "Modern"
+    ],
+    "highlights": [
+      "Porsuk Gondol",
+      "Odunpazarı",
+      "OMM Müzesi",
+      "Sazova Parkı",
+      "Çibörek Deneyimi"
+    ],
+    "category": "budget",
+    "categories": [
+      "Şehir",
+      "Kültür",
+      "Eğlence",
+      "Fotoğraf"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Hatay Gastronomi & Tarih Rotası",
+    "slug": "hatay-gastronomi--tarih-rotasi",
+    "city": "Hatay",
+    "location": "Hatay, Antakya",
+    "description": "Medeniyetler beşiği Antakya'da gastronomi ve tarih rotası.",
+    "longDescription": "Hatay mutfağı, St. Pierre Kilisesi, Mozaik Müzesi ve künefe deneyimiyle dolu bir kültür turu.",
+    "price": 2000,
+    "days": 2,
+    "rating": 8.4,
+    "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800&q=80",
+    "hotelName": "Museum Hotel Antakya",
+    "features": [
+      "Tarihi Konum",
+      "Restoran",
+      "Müze Üzerinde",
+      "Wi-Fi"
+    ],
+    "highlights": [
+      "Hatay Arkeoloji Müzesi",
+      "St. Pierre Kilisesi",
+      "Uzun Çarşı",
+      "Künefe",
+      "Harbiye Şelalesi"
+    ],
+    "category": "budget",
+    "categories": [
+      "Gastronomi",
+      "Tarih",
+      "Kültür"
+    ]
+  }
+]
