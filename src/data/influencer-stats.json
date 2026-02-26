@@ -1,0 +1,121 @@
+{
+    "user": {
+        "id": "inf-001",
+        "name": "Semih Yılmaz",
+        "username": "semihylmz",
+        "email": "semih@tatilva.com",
+        "instagram": "@semihylmz",
+        "tiktok": "@semihtravel",
+        "tier": "gold",
+        "tierLabel": "Gold Partner",
+        "commissionRate": 5,
+        "joinDate": "2026-01-15",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&q=80"
+    },
+    "stats": {
+        "totalEarnings": 18750,
+        "pendingPayment": 3200,
+        "totalClicks": 12480,
+        "conversionRate": 4.2,
+        "totalSales": 87,
+        "monthlyEarnings": 4500
+    },
+    "tiers": [
+        {
+            "name": "Bronz",
+            "minSales": 0,
+            "maxSales": 9,
+            "commission": 3,
+            "color": "#CD7F32"
+        },
+        {
+            "name": "Silver",
+            "minSales": 10,
+            "maxSales": 49,
+            "commission": 4,
+            "color": "#C0C0C0"
+        },
+        {
+            "name": "Gold",
+            "minSales": 50,
+            "maxSales": 99,
+            "commission": 5,
+            "color": "#FFD700"
+        },
+        {
+            "name": "Elite",
+            "minSales": 100,
+            "maxSales": null,
+            "commission": 7,
+            "color": "#06B6D4"
+        }
+    ],
+    "links": [
+        {
+            "id": "link-1",
+            "routeName": "Antalya All-Inclusive Lüks Tatil",
+            "routeSlug": "antalya-lux",
+            "shortUrl": "tatilva.com/r/semihylmz/antalya-lux",
+            "clicks": 3240,
+            "conversions": 28,
+            "earnings": 5880,
+            "status": "active",
+            "createdAt": "2026-01-20"
+        },
+        {
+            "id": "link-2",
+            "routeName": "Kapadokya Balon & Mağara Oteli",
+            "routeSlug": "kapadokya-balon",
+            "shortUrl": "tatilva.com/r/semihylmz/kapadokya-balon",
+            "clicks": 2890,
+            "conversions": 22,
+            "earnings": 4290,
+            "status": "active",
+            "createdAt": "2026-01-25"
+        },
+        {
+            "id": "link-3",
+            "routeName": "Bodrum Marina Boutique Tatil",
+            "routeSlug": "bodrum-marina",
+            "shortUrl": "tatilva.com/r/semihylmz/bodrum-marina",
+            "clicks": 2100,
+            "conversions": 15,
+            "earnings": 3825,
+            "status": "active",
+            "createdAt": "2026-02-01"
+        },
+        {
+            "id": "link-4",
+            "routeName": "İstanbul Boğaz & Kültür Turu",
+            "routeSlug": "istanbul-bogaz",
+            "shortUrl": "tatilva.com/r/semihylmz/istanbul-bogaz",
+            "clicks": 1850,
+            "conversions": 12,
+            "earnings": 2700,
+            "status": "active",
+            "createdAt": "2026-02-05"
+        },
+        {
+            "id": "link-5",
+            "routeName": "Bursa Uludağ Kayak Tatili",
+            "routeSlug": "bursa-uludag",
+            "shortUrl": "tatilva.com/r/semihylmz/bursa-uludag",
+            "clicks": 980,
+            "conversions": 5,
+            "earnings": 675,
+            "status": "active",
+            "createdAt": "2026-02-10"
+        },
+        {
+            "id": "link-6",
+            "routeName": "Gaziantep Gastronomi Turu",
+            "routeSlug": "gaziantep-gastro",
+            "shortUrl": "tatilva.com/r/semihylmz/gaziantep-gastro",
+            "clicks": 420,
+            "conversions": 5,
+            "earnings": 1380,
+            "status": "active",
+            "createdAt": "2026-02-15"
+        }
+    ]
+}
