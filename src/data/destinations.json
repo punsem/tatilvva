@@ -148,7 +148,7 @@
     "price": 3200,
     "days": 2,
     "rating": 8,
-    "image": "https://images.unsplash.com/photo-1568797629412-0f0eff8e8b57?w=800&q=80",
+    "image": "https://images.unsplash.com/photo-1527004013197-933c4bb611b3?w=800&q=80",
     "hotelName": "Ada Palas Büyükada",
     "features": [
       "Ada Konumu",
@@ -181,7 +181,7 @@
     "price": 2500,
     "days": 2,
     "rating": 7.3,
-    "image": "https://images.unsplash.com/photo-1569949381669-ecf31ae8f613?w=800&q=80",
+    "image": "https://images.unsplash.com/photo-1562832135-14a35d25edef?w=800&q=80",
     "hotelName": "JW Marriott Ankara",
     "features": [
       "Şehir Merkezi",
@@ -737,7 +737,7 @@
     "price": 2200,
     "days": 2,
     "rating": 7.6,
-    "image": "https://images.unsplash.com/photo-1609861382907-e67bcf4d4542?w=800&q=80",
+    "image": "https://images.unsplash.com/photo-1641128324972-af3212f0f6bd?w=800&q=80",
     "hotelName": "Ürgüp Cave Hotel",
     "features": [
       "Mağara Oda",
@@ -1045,7 +1045,7 @@
     "price": 2500,
     "days": 2,
     "rating": 8.4,
-    "image": "https://images.unsplash.com/photo-1600011638498-3da7c36682c3?w=800&q=80",
+    "image": "https://images.unsplash.com/photo-1529260830199-42c24126f198?w=800&q=80",
     "hotelName": "Doga Thermal Health & SPA",
     "features": [
       "Termal Havuz",
