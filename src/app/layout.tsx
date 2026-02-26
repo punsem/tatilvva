@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Montserrat, Inter } from "next/font/google";
 import Link from "next/link";
-import { Phone, Mail, MapPin, Instagram, Twitter, Facebook } from "lucide-react";
+import { Phone, Mail, MapPin, Instagram, Linkedin } from "lucide-react";
 import "./globals.css";
 
 const montserrat = Montserrat({
@@ -128,14 +128,11 @@ export default function RootLayout({
                 </p>
                 {/* Social */}
                 <div className="flex gap-3 mt-5">
-                  <a href="#" className="w-9 h-9 rounded-lg bg-white/5 flex items-center justify-center text-white/40 hover:bg-turkuaz/20 hover:text-turkuaz transition-all">
+                  <a href="https://www.instagram.com/tatilva/" target="_blank" rel="noopener noreferrer" className="w-9 h-9 rounded-lg bg-white/5 flex items-center justify-center text-white/40 hover:bg-turkuaz/20 hover:text-turkuaz transition-all">
                     <Instagram className="w-4 h-4" />
                   </a>
-                  <a href="#" className="w-9 h-9 rounded-lg bg-white/5 flex items-center justify-center text-white/40 hover:bg-turkuaz/20 hover:text-turkuaz transition-all">
-                    <Twitter className="w-4 h-4" />
-                  </a>
-                  <a href="#" className="w-9 h-9 rounded-lg bg-white/5 flex items-center justify-center text-white/40 hover:bg-turkuaz/20 hover:text-turkuaz transition-all">
-                    <Facebook className="w-4 h-4" />
+                  <a href="https://www.linkedin.com/company/lixora-media/" target="_blank" rel="noopener noreferrer" className="w-9 h-9 rounded-lg bg-white/5 flex items-center justify-center text-white/40 hover:bg-turkuaz/20 hover:text-turkuaz transition-all">
+                    <Linkedin className="w-4 h-4" />
                   </a>
                 </div>
               </div>
@@ -174,11 +171,11 @@ export default function RootLayout({
                 <ul className="space-y-3">
                   <li className="flex items-center gap-2.5 text-sm text-white/40">
                     <MapPin className="w-4 h-4 text-turkuaz shrink-0" />
-                    <span>Levent, İstanbul, Türkiye</span>
+                    <span>Nilüfer, Bursa, Türkiye</span>
                   </li>
                   <li className="flex items-center gap-2.5 text-sm text-white/40">
                     <Phone className="w-4 h-4 text-turkuaz shrink-0" />
-                    <span>0850 840 20 20</span>
+                    <span>0531 297 00 16</span>
                   </li>
                   <li className="flex items-center gap-2.5 text-sm text-white/40">
                     <Mail className="w-4 h-4 text-turkuaz shrink-0" />
